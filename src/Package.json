@@ -1,0 +1,22 @@
+{
+  "author": "Joseph Legacy",
+  "name": "uppercasemejl",
+  "description": "Converts files to uppercase",
+  "version": "0.1.6",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/uppercaseme",
+  "keywords": [
+    "upper",
+    "case",
+    "file"
+  ],
+  "bin": {
+    "uppercaseme": "./bin/uppercaseme"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
